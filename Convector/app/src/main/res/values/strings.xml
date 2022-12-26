@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Convector_Voitovich_303</string>
+    <string name="infoFrom">From:</string>
+    <string name="infoTo">To:</string>
+    <string name="infoConvert">Convert</string>
+    <string name="infoTime">Time</string>
+    <string name="infoMoney">Money</string>
+    <string name="infoLength">Length</string>
+
+</resources>
